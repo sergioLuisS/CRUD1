@@ -46,13 +46,4 @@ public class Main {
         }
     }
 }
-//    public static void main(String[] args) throws SQLException {
-//        clsConexion conexion = new clsConexion();
-//
-//        conexion.insertarDatos();
-//        conexion.leerDatos();
-//        conexion.leerDatos();
-//        conexion.cerrarConexion();
-//        conexion.updates();
-//        conexion.leerDatos();
-//    }
+
